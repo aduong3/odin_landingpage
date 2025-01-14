@@ -86,7 +86,7 @@ ul{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    margin-bottom: 60px;
+    margin: 60px;
 }
 .middle-title{
     font-size: 36px;
@@ -123,8 +123,11 @@ ul{
 }
 
 .quote{
-    font: 36px light italic #1F2937;
-    text-align: center;
+    font-size: 36px;
+    color: #1F2937;
+    text-align: left;
+    padding-top: 16px;
+    font-weight: 300;
 }
 
 .quoted-person{
